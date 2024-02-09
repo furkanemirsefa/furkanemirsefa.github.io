@@ -11,5 +11,5 @@ function showSection(sectionId) {
 }
 
 window.onload = function () {
-  showSection("portfolio"); // Automatically display the Portfolio section when the page loads
+  showSection("resume"); // Automatically display the Portfolio section when the page loads
 };
